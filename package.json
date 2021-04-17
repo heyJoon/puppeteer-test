@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyJoon/puppeteer-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyJoon/puppeteer-test/issues"
+  },
+  "homepage": "https://github.com/heyJoon/puppeteer-test#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  },
+  "type": "module"
+}
