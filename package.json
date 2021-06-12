@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/heyJoon/puppeteer-test#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "puppeteer": "^8.0.0"
   },
   "type": "module"
